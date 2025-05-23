@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "question": "SwiftUI nedir?",
+        "options": ["Framework", "Dil", "IDE", "Kütüphane"],
+        "correctAnswerIndex": 0,
+        "timeLimit": 10
+    },
+    {
+        "id": 2,
+        "question": "Swift hangi şirkete aittir?",
+        "options": ["Google", "Microsoft", "Apple", "Meta"],
+        "correctAnswerIndex": 2,
+        "timeLimit": 10
+    }
+]
