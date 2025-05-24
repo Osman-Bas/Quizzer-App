@@ -48,30 +48,6 @@ Quizzer, SwiftUI kullanılarak geliştirilmiş bir iOS quiz uygulamasıdır. Kul
 * UserDefaults
 * JSON Parsing
 
-## 📁 Dosya Yapısı
-
-```
-├── Models
-│   └── Question.swift
-├── Views
-│   ├── StartView.swift
-│   └── QuizView.swift
-├── Utils
-│   └── QuestionLoader.swift
-├── Resources
-│   └── questions.json
-├── Assets.xcassets
-├── Info.plist
-```
-
-## 📷 Ekran Görüntüleri
-
-> Örnek ekran görüntülerini buraya ekleyebilirsin:
-
-```
-![Start Screen](screenshots/start.png)
-![Quiz Screen](screenshots/quiz.png)
-```
 
 ## 🧑‍💻 Geliştirici
 
