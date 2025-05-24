@@ -15,6 +15,25 @@ Quizzer, SwiftUI kullanılarak geliştirilmiş bir iOS quiz uygulamasıdır. Kul
 * 📊 Ana ekranda geçmiş skorlar listelenir
 * 🗑 Geçmişi temizleme seçeneği
 
+## 🖼️ Uygulama Ekran Görüntüleri
+
+### Ana Sayfa
+<h3>📌 Ana Menü</h3>
+<img src="https://github.com/Osman-Bas/Quizzer-App/blob/main/Quizzer/Quizzer_ScreenShots/Anasayfa.png" alt="Ana Menü" width="250">
+
+
+### Örnek Soru
+<h3>📌 Örnek Soru</h3>
+<img src="https://github.com/Osman-Bas/Quizzer-App/blob/main/Quizzer/Quizzer_ScreenShots/ÖrnekSoru.png" alt="Örnek Soru" width="250">
+
+### İşaretlenmiş Soru
+<h3>📌 İşaretlenmiş Soru</h3>
+<img src="https://github.com/Osman-Bas/Quizzer-App/blob/main/Quizzer/Quizzer_ScreenShots/İşaretlenmişSoru.png" alt="İşaretlenmiş Soru" width="250">
+
+### Sonuç Ekranı
+<h3>📌 Sonuç Ekranı</h3>
+<img src="https://github.com/Osman-Bas/Quizzer-App/blob/main/Quizzer/Quizzer_ScreenShots/SonuçEkranı.png" alt="Sonuç Ekranı" width="250">
+
 ## 🚀 Kurulum
 
 1. Projeyi Xcode ile aç
