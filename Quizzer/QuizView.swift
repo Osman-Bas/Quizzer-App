@@ -15,7 +15,7 @@ struct QuizView: View {
     @State private var score: Int = 0
     @State private var timeRemaining: [Int] = []
     @State private var timer: Timer?
-    @State private var totalTimeRemaining: Int = 60
+    @State private var totalTimeRemaining: Int = 30
     @State private var totalTimer: Timer?
     @State private var selectedOptions: [Int?] = []
 
@@ -161,7 +161,7 @@ struct QuizView: View {
 
     private func startTotalTimer() {
         totalTimer?.invalidate()
-        totalTimeRemaining = 60
+        totalTimeRemaining = 30
 
         totalTimer = Timer.scheduledTimer(withTimeInterval: 1.0, repeats: true) { _ in
             if totalTimeRemaining > 0 {
